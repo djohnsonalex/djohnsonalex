@@ -1,13 +1,11 @@
-# Hey, I'm Alex 👋
+# Hi, I'm Alex
 
-Product builder based in New York.
+I'm a product builder focused on consumer apps, subscriptions, retention, and practical AI products.
 
-## About Me
+I was the first product hire for Dribbleup, where I worked across onboarding, activation, engagement, retention, notifications, discovery, and experimentation for a 100k+ subscriber consumer subscription business.
 
-- 🏗️ I build products
-- 🌆 Based in New York
-- 💻 Always working on something new
+Recently, I've been building:
+- [fAI Workout](https://fai-workout.com/) - an iOS AI fitness app for structured HIIT and strength workouts
+- [Tembric](https://github.com/djohnsonalex/tembric) - an open-source prompt management / LLM routing concept for lean product teams and solo builders
 
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-djohnsonalex-181717?style=flat&logo=github)](https://github.com/djohnsonalex)
+I'm especially interested in AI-native products, mobile consumer experiences, and high-agency product roles where prototyping velocity matters.
